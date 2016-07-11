@@ -1,0 +1,64 @@
+id;type;time(S)
+1;run;60
+1;walk;90
+1;run ;60
+1;walk;90
+1;run;60
+1;walk;90
+1;run ;60
+1;walk;90
+1;run;60
+1;walk;90
+1;run ;60
+1;walk;90
+1;run;60
+1;walk;90
+1;run ;60
+1;walk;90
+2;run;90
+2;walk;120
+2;run ;90
+2;walk;120
+2;run;90
+2;walk;120
+2;run ;90
+2;walk;120
+2;run;90
+2;walk;120
+2;run ;90
+2;walk;120
+3;run;90
+3;walk;90
+3;run ;180
+3;walk;180
+3;run;90
+3;walk;90
+3;run ;180
+3;walk;180
+4;run;180
+4;walk;90
+4;run ;300
+4;walk;150
+4;run;180
+4;walk;90
+4;run ;300
+5;run ;300
+5;walk;180
+5;run;300
+5;walk;180
+5;run ;300
+6;run;420
+6;walk;300
+6;run;420
+7;run;1260
+8;run ;300
+8;walk;180
+8;run;420
+8;walk;180
+8;run ;300
+9;run;600
+9;walk;180
+9;run ;600
+10;run ;2500
+11;run;1680
+12;run;1800
