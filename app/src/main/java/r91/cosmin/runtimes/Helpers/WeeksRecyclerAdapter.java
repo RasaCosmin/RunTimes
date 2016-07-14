@@ -35,8 +35,8 @@ public class WeeksRecyclerAdapter extends RecyclerView.Adapter<WeekViewHolder>{
     @Override
     public void onBindViewHolder(WeekViewHolder holder, int position) {
         final WeekModel weekModel = weeks.get(position);
-        holder.day.setText("week "+weekModel.getDay());
-        holder.week.setText("day "+weekModel.getWeek()+"");
+        holder.day.setText("day "+weekModel.getDay());
+        holder.week.setText("week "+weekModel.getWeek()+"");
         holder.card.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
